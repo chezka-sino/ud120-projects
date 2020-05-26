@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="883d76a1-4ada-4b7c-9956-f9d342a89c53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/naive_bayes/nb_author_id.py" beforeDir="false" afterPath="$PROJECT_DIR$/naive_bayes/nb_author_id.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/email_preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/email_preprocess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/startup.py" beforeDir="false" afterPath="$PROJECT_DIR$/tools/startup.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/naive_bayes/nb_author_id.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+            <state relative-caret-position="145">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#252#262#0" expanded="true" />
               </folding>
@@ -194,8 +192,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/naive_bayes/nb_author_id.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+        <state relative-caret-position="145">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#252#262#0" expanded="true" />
           </folding>
